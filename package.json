@@ -16,5 +16,8 @@
     "url": "https://github.com/Guzno88/web2025-03/issues"
   },
   "homepage": "https://github.com/Guzno88/web2025-03#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
 }
